@@ -15,7 +15,7 @@
 
 - 📫 Reach me **Chamudithawee@gmail.com or Visit My Social Sites Below Mentioned**
 
-- 📄 Know about my experiences [Link](Link)
+- 📄 Know about my experiences [My Resume](https://github.com/Chamudithawee/Chamudithawee/blob/main/Chamuditha-Weerasinghe.pdf)
 
 - (ᯤ) Now Listing [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your-spotify-id)
 
