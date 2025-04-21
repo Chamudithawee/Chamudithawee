@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fintech/SaaS Solutions for Sri lankan Banking and Finance Institutes**
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🌱 I’m currently learning **Data Science and ML/AI**
 
 - 👯 I’m looking to collaborate on **Any .NET and React/Vue Projects**
 
