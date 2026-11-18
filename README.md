@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm Chamuditha Weerasinghe</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+# Hi, I'm Chamuditha Weerasinghe
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamudithawee&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithawee" /> </p>
+### Software Engineer | Java, Spring Boot, Microservices, Cloud & DevOps
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamudithawee&theme=onedark" alt="chamudithawee" /></a> </p>
+I build and support production-grade banking, payments, remittance, and financial-platform solutions. My experience spans backend engineering, secure system integration, cloud and containerized delivery, production releases, and disaster-recovery readiness.
 
-- 🔭 I’m currently working on **Fintech/SaaS Solutions for Sri lankan Banking and Finance Institutes**
+I currently contribute to a portfolio of 7+ production products used by local and offshore financial institutions. I focus on reliable, maintainable systems and enjoy solving complex issues across applications, APIs, databases, cloud services, and infrastructure.
 
-- 🌱 I’m currently learning **Data Science and ML/AI**
+## What I work with
 
-- 👯 I’m looking to collaborate on **Any .NET and React/Vue Projects**
+| Area | Technologies and strengths |
+| --- | --- |
+| Backend & integrations | Java, Spring Boot, .NET, ASP.NET Core, REST APIs, SOAP services, microservices |
+| Frontend | Next.js, React, Angular, JavaScript, TypeScript |
+| Cloud & delivery | Azure, AWS, Docker, Kubernetes, VMware Tanzu, CI/CD, GitHub Actions, Azure DevOps |
+| Data & operations | PostgreSQL, Oracle, Microsoft SQL Server, Redis, Linux, Nginx, systemd, TLS, monitoring |
 
-- 💬 Ask me about **.NET Core / Cloud Computing / DevOps**
+## Current focus
 
-- 📫 Reach me **Chamudithawee@gmail.com or Visit My Social Sites Below Mentioned**
+- Designing secure services and integrations for enterprise financial workflows.
+- Improving production reliability through stronger release processes, observability, and disaster-recovery practices.
+- Building and maintaining containerized deployment workflows and CI/CD pipelines.
+- Sharing practical lessons from backend engineering, database performance, cloud delivery, and production support.
 
-- 📄 Know about my experiences [My Resume](https://github.com/Chamudithawee/Chamudithawee/blob/main/Chamuditha-Weerasinghe.pdf)
+## Selected engineering experience
 
-- (ᯤ) Now Listing [![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/your-spotify-id)
+- **Production financial platforms:** Delivered and supported banking, payment, remittance, and financial-system capabilities across more than seven production products.
+- **Secure integrations:** Designed REST and SOAP APIs for authentication, transaction processing, payments, and third-party connectivity.
+- **Cloud and platform delivery:** Supported deployments across development, UAT, production, and disaster-recovery environments using containerized workflows and CI/CD.
+- **Performance engineering:** Investigated a slow daily reporting workload and reduced its development benchmark from roughly 13 minutes to about 2 seconds by aligning an index with the query access pattern.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chamuditha-weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamuditha-weerasinghe" height="30" width="40" /></a>
-</p>
+## Let's connect
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- LinkedIn: [linkedin.com/in/chamudithawee](https://www.linkedin.com/in/chamudithawee/)
+- Email: [Chamudithawee@gmail.com](mailto:Chamudithawee@gmail.com)
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chamudithawee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamudithawee" /></a></p><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamudithawee&theme=onedark&show_icons=true&locale=en&layout=compact" alt="chamudithawee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamudithawee&theme=onedark&show_icons=true&locale=en" alt="chamudithawee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamudithawee&theme=onedark" alt="chamudithawee" /></p>
+_Open to discussing backend, platform, cloud, and financial-technology engineering opportunities._
